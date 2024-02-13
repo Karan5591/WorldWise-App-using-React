@@ -1,0 +1,37 @@
+{
+  "cities": [
+    {
+      "cityName": "Himachal Pradesh",
+      "country": "India",
+      "date": "2023-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 32.1024,
+        "lng": 77.5619
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Punjab",
+      "country": "India",
+      "date": "2023-07-15T08:22:53.976Z",
+      "notes": "Tasty Food",
+      "position": {
+        "lat": 31.1471,
+        "lng": 75.3412
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "3add",
+      "cityName": "Basi",
+      "country": "India",
+      "notes": "good",
+      "date": "2024-02-13T15:45:48.405Z",
+      "position": {
+        "lat": "30.636100835853487",
+        "lng": "76.79764667462204"
+      }
+    }
+  ]
+}
